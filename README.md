@@ -1,2 +1,3 @@
-# Kaosgustaph-Mascotas-Recycler-View-y-Action-View-
+Segun yo todo esta ahi
+
 Tarea semana3
